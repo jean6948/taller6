@@ -1,9 +1,67 @@
 html{
-    background-color: rgb(172, 172, 172);
+    background-color: rgb(3, 3, 3);
+
 }
 
 .body{
-    margin: 0;
+    margin: 0% 0%;
     padding: 0;
+    position: absolute;
 }
 
+.container{
+    margin-top: -50px;
+    padding: 100px;
+    display: flex;
+    background-image: url(https://www.tonica.la/__export/1595702332011/sites/debate/img/2020/07/25/rick-and-morty-escritores-trabajan-en-la-temporada-6.jpg_1902800913.jpg);
+    background-position: center;
+    background-size: 100%;
+}
+
+.container .left35{
+    padding: 40px;
+}
+.container .left35 .vid{
+    
+}
+
+.container .left35 .text{
+    margin-left: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    }
+
+.container .left35 .text .sub1{
+    font-size: 15px;
+    color: hotpink;
+}
+
+.container .left35 .text .sub2{
+    margin-top: -10px;
+    color: rgb(10, 10, 10);
+    font-weight: 900;
+}
+
+.container .right35{
+    padding: 40px;
+
+}
+
+.container .right35 .vid{
+
+}
+
+.container .right35 .text{
+    margin-left: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.container .right35 .text .sub1{
+    font-size: 15px;
+    color: hotpink;
+}
+
+.container .right35 .text .sub2{
+    margin-top: -10px;
+    color: rgb(10, 10, 10);
+    font-weight: 900;
+}
